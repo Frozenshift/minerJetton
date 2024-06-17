@@ -3,6 +3,6 @@ npm install
 
 
 while true; do
-  node send_multigpu.js --api tonapi --bin ./pow-miner-cuda --givers 100 --gpu-count 10 --timeout 100000
+  node send_multigpu.js --api tonapi --bin ./pow-miner-cuda --givers 1000 --gpu-count 10
   sleep 1;
 done;
