@@ -2,22 +2,21 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.givers1000 = exports.givers100 = void 0;
 exports.givers100 = [
-    { address: 'EQABByrez7pfMwGoiVKpuixKJ5vSUoGU6QxqIesMEtcKMAHo', reward: 100 },
+    { address: 'EQBnSDj00PPIb_I2IosTwefIV4OJQqElZAXwufX1nHlqH-at', reward: 100 },
+    { address: 'EQBnSDj00PPIb_I2IosTwefIV4OJQqElZAXwufX1nHlqH-at', reward: 100 },
 ];
 
 
-
 exports.givers1000 = [
-    { address: 'EQAY4LHfgqInZTekX9SDBmbBimShl3OdmTnQGSw82DQBNKAQ', reward: 1000 },
-    { address: 'EQCfPVHTaKwoPOG5C8jSrhi5j82EuhNdKqoirEPvES8igPPN', reward: 1000 },
-    { address: 'EQB6P_39LCqDIcZ600Y6qenlc47a-FtjpReb4rCHGZOt8b2q', reward: 1000 },
-    { address: 'EQDftSo4Mn53jyUFb5bTzmJevxUjK832iy6Tt4eoYIB9M7J5', reward: 1000 },
-    { address: 'EQCXsac0FpvNyQwZSCImpmh1O8QWa-JSnal2ESYXZaKq9twn', reward: 1000 },
-    { address: 'EQDavF_H1EBBsQ82HdyvCExFRbFKQ3mpsHMElE0wbim5ehHM', reward: 1000 },
-    { address: 'EQB-Tc3OrKn__jSa9hTPEmbMioOQN08Fvda_85exIB4GPw4g', reward: 1000 },
-    { address: 'EQAl3C0k1R8X9Ms7VG4cUpM3u_lKqfKIgYCLjMDMqaiwXynW', reward: 1000 },
-    { address: 'EQCHODQyANmzftrcaGUOctE_D7XSEZKTepzxXyGLA6dZNDTJ', reward: 1000 },
-    { address: 'EQDCeae9X_DZji0GEUXV8IFX5BPID2AX8zVCxugeH_H1fb9Z', reward: 1000 }, // 1000
+    { address: 'EQAHKQ157ZfeV2hqZ_EhR9_sjKr6AW-x15LxKp3F8jWkQCRv', reward: 1000 },
+    { address: 'EQCAGbUzkfXA-_k5WKuH3r0ERlk0X70_aHxHF3QxO4c7xzIc', reward: 1000 },
+    { address: 'EQBzh8zKTIglDKo4oNuTANGHAB3cPzrqz8jzxBX7t6lraCFB', reward: 1000 },
+    { address: 'EQDYkDO-B9RVj5JtraUuQi6-z_UZBUy76NkK-GVMxQR-nbC6', reward: 1000 },
+    { address: 'EQBRpj30zjeeZx2uBNwkxf0N2umd4Zx939l4B7ZWgLMrHw6o', reward: 1000 },
+    { address: 'EQDD6XMM8KjLqCQQUaW2MT3zif7Co6b1uvm7zea91NRmG6DU', reward: 1000 },
+    { address: 'EQBlZKR1SdUH021RHD9mSjGwolg6v2WAeh4H3B55btxLFHSY', reward: 1000 },
+    { address: 'EQDbBsBdFQoQr-PQrOHA6diZJLeBIARqH-IdMTPN0kZePEhr', reward: 1000 },
+
 ];
 exports.givers5000 = [
     { address: 'EQCigp6lIDQczWqOUzx-F4v3xC-zfhT7u6qL24J-AjyGCfKV', reward: 5000 },
