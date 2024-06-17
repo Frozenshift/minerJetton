@@ -13,4 +13,4 @@ WALLET=UQBXqg6otNpm-pGZKdCdDfMWnCkRR6HwnZFcxzPPYmBdGcsD
 
 cd "$(dirname "$0")"
 
-./1.88/lolMiner -a GRAM --pool $POOL --user $WALLET --ton-mode 6
+./lolMiner -a GRAM --pool $POOL --user $WALLET --ton-mode 6
