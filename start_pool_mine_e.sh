@@ -4,8 +4,8 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=lolthings.ton.ninja:11111
-WALLET=UQC8AXKncpgxgP1K0VgP1klq9fVdUQKQw76MVSJQBBqLVAqG
+POOL=thngp.hashrate.to:4012
+WALLET=thngp:UQBXqg6otNpm-pGZKdCdDfMWnCkRR6HwnZFcxzPPYmBdGcsD
 
 #################################
 ##  End of user-editable part  ##
