@@ -5,7 +5,7 @@
 #################################
 
 POOL=lolthings.ton.ninja:26930
-WALLET=UQBXqg6otNpm-pGZKdCdDfMWnCkRR6HwnZFcxzPPYmBdGcsD
+WALLET=UQC8AXKncpgxgP1K0VgP1klq9fVdUQKQw76MVSJQBBqLVAqG
 
 #################################
 ##  End of user-editable part  ##

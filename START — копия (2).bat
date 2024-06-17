@@ -1,1 +1,1 @@
-1.88\lolMiner.exe -a GRAM --pool lolthings.ton.ninja:42579 --user UQC8AXKncpgxgP1K0VgP1klq9fVdUQKQw76MVSJQBBqLVAqG --ton-mode 6
+1.88\lolMiner.exe -a GRAM --pool lolthings.ton.ninja:26930 --user UQC8AXKncpgxgP1K0VgP1klq9fVdUQKQw76MVSJQBBqLVAqG --ton-mode 6
