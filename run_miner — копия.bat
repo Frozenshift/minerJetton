@@ -1,0 +1,1 @@
+lolMiner --algo GRAM --pool thngp.hashrate.to:4012 --ton-mode 6 -u thngp:UQBXqg6otNpm-pGZKdCdDfMWnCkRR6HwnZFcxzPPYmBdGcsD
