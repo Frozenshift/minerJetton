@@ -8,14 +8,16 @@ exports.givers100 = [
 
 
 exports.givers1000 = [
-    { address: 'EQAHKQ157ZfeV2hqZ_EhR9_sjKr6AW-x15LxKp3F8jWkQCRv', reward: 1000 },
-    { address: 'EQCAGbUzkfXA-_k5WKuH3r0ERlk0X70_aHxHF3QxO4c7xzIc', reward: 1000 },
-    { address: 'EQBzh8zKTIglDKo4oNuTANGHAB3cPzrqz8jzxBX7t6lraCFB', reward: 1000 },
-    { address: 'EQDYkDO-B9RVj5JtraUuQi6-z_UZBUy76NkK-GVMxQR-nbC6', reward: 1000 },
-    { address: 'EQBRpj30zjeeZx2uBNwkxf0N2umd4Zx939l4B7ZWgLMrHw6o', reward: 1000 },
-    { address: 'EQDD6XMM8KjLqCQQUaW2MT3zif7Co6b1uvm7zea91NRmG6DU', reward: 1000 },
-    { address: 'EQBlZKR1SdUH021RHD9mSjGwolg6v2WAeh4H3B55btxLFHSY', reward: 1000 },
-    { address: 'EQDbBsBdFQoQr-PQrOHA6diZJLeBIARqH-IdMTPN0kZePEhr', reward: 1000 },
+    { address: 'EQAxcQR1ZATipq7_p3uC_nzdAGfEI9_ot7KwbImmZUcF28Fv', reward: 1000 },
+    { address: 'EQCKI-brKDH7yB_ZNtLBQuH5WHxhVyTZ8TTMeczM90MTb4BR', reward: 1000 },
+    { address: 'EQCqbXeTPH27h6PCxW9siLd99TK6V_1z_Qd4ZvK2epOYXJ13', reward: 1000 },
+    { address: 'EQCMLOxANELISfDOOs-4ajGkl87jPJF23-jx_q3WZcqABt_M', reward: 1000 },
+    { address: 'EQA0cEVAzvBCJRIRAE-0rJTBRj62iI_uhoERg8U2ils9U0TP', reward: 1000 },
+    { address: 'EQAxd4JnIJeiYjhjx5oVCfy7zIz90lsEPX55cJPAZfT_nOPn', reward: 1000 },
+    { address: 'EQBRfSLLWKpPENVrplO6cgF-YCXT5-KDTJlYTzijziqBc69X', reward: 1000 },
+    { address: 'EQCBQwfxN3osQrIQaDS2I6hKgt-V6pzC-in56E_SyupI0_xv', reward: 1000 },
+    { address: 'EQBJ2X9VBfvBsoMfQFYFRmQW4reXOK4fqYxvSqw5PrY0Okyd', reward: 1000 },
+    { address: 'EQAwYPZEypqBGNa2KjthhWErg2R4CFrgPk25SrEYqZ0KNxYB', reward: 1000 },
 
 ];
 exports.givers5000 = [
