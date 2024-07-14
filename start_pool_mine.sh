@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=lolmrdn.ton.ninja:7777
+POOL=lolthings.ton.ninja:11111
 WALLET=UQBXqg6otNpm-pGZKdCdDfMWnCkRR6HwnZFcxzPPYmBdGcsD
 
 #################################
